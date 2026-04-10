@@ -1,3 +1,4 @@
+// 1-masala
 // let a =12
 // let b =16
 // function sum (a,b){
@@ -7,9 +8,20 @@
 // }
 // sum(a,b)
 
+// 2-masala
+
+// let a = 12
+// let b = 16
+// function sum(a,b){
+//     return a +b    
+// }
+// console.log(sum(a,b));
+
+3-masala
+
 let a = 12
 let b = 16
 function sum(a,b){
-    return a +b    
+    return a - b    
 }
 console.log(sum(a,b));
