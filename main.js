@@ -49,16 +49,30 @@
 // console.log(a*16);
 // check(a)
 
-6-masala
+// 6-masala
 
-let a = +prompt ('a sonni kiriting')
+// let a = +prompt ('a sonni kiriting')
 
-let check = function (a){
-    if (a * 20) {
+// let check = function (a){
+//     if (a * 20) {
+//         alert(true)        
+//     } else {
+//         alert(false)
+//     }
+// }
+// console.log(a*20);
+// check(a)
+
+7-masala
+
+let b = +prompt ('b sonni kiriting')
+
+let check = function (b){
+    if (b * 30) {
         alert(true)        
     } else {
         alert(false)
     }
 }
-console.log(a*20);
-check(a)
+console.log(b*30);
+check(b);
