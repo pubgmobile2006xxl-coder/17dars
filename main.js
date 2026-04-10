@@ -35,16 +35,30 @@
 // }
 // console.log(sum(a,b));
 
-5-masala
+// 5-masala
+
+// let a = +prompt ('a sonni kiriting')
+
+// let check = function (a){
+//     if (a * 16) {
+//         alert(true)        
+//     } else {
+//         alert(false)
+//     }
+// }
+// console.log(a*16);
+// check(a)
+
+6-masala
 
 let a = +prompt ('a sonni kiriting')
 
 let check = function (a){
-    if (a * 16) {
+    if (a * 20) {
         alert(true)        
     } else {
         alert(false)
     }
 }
-console.log(a*16);
+console.log(a*20);
 check(a)
