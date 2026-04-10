@@ -26,11 +26,25 @@
 // }
 // console.log(sum(a,b));
 
-4-masala
+// 4-masala
 
-let a = 12
-let b = 16
-function sum(a,b){
-    return a / b    
+// let a = 12
+// let b = 16
+// function sum(a,b){
+//     return a / b    
+// }
+// console.log(sum(a,b));
+
+5-masala
+
+let a = +prompt ('a sonni kiriting')
+
+let check = function (a){
+    if (a * 16) {
+        alert(true)        
+    } else {
+        alert(false)
+    }
 }
-console.log(sum(a,b));
+console.log(a*16);
+check(a)
